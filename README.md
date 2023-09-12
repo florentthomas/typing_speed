@@ -30,10 +30,14 @@ Une fois que vous aver terminé vous obtenez votre score de précision, le nombr
 
 [API Trouve-mot](https://trouve-mot.fr/) pour récupérer des mots aléatoirement 
 
+## Jouez
+
+Pour jouer au jeu cliquez sur le [lien](https://florentthomas.github.io/typing_speed/)
 
 ## Installation
 
 
 ```bash
-  
+ git clone https://github.com/florentthomas/typing_speed.git
 ```
+Ensuite lancez le fichier `index.html`
